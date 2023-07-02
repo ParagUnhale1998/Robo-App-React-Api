@@ -22,16 +22,16 @@ The App component is exported as the default export, which means it can be impor
 
 In summary, this code demonstrates the following concepts:
 
-Component-based architecture with React.
-Fetching data from a remote API using fetch.
-Managing component state using setState.
-Filtering an array based on user input.
-Conditionally rendering components.
-Using lifecycle methods like componentDidMount.
-Separating code into reusable components.
-Importing and using external modules and components.
-Adding scrolling effects with a custom component.
-Using a loading spinner component to indicate data loading.
+1) Component-based architecture with React.
+2) Fetching data from a remote API using fetch.
+3) Managing component state using setState.
+4) Filtering an array based on user input.
+5) Conditionally rendering components.
+6) Using lifecycle methods like componentDidMount.
+7) Separating code into reusable components.
+8) Importing and using external modules and components.
+9) Adding scrolling effects with a custom component.
+10) Using a loading spinner component to indicate data loading.
 Overall, this code provides a basic example of a React application that fetches and displays data while allowing users to search and filter the displayed content.
 
 
