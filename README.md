@@ -32,7 +32,7 @@ In summary, this code demonstrates the following concepts:
 8) Importing and using external modules and components.
 9) Adding scrolling effects with a custom component.
 10) Using a loading spinner component to indicate data loading.
-Overall, this code provides a basic example of a React application that fetches and displays data while allowing users to search and filter the displayed content.
+11) Overall, this code provides a basic example of a React application that fetches and displays data while allowing users to search and filter the displayed content.
 
 
 ![image](https://github.com/ParagUnhale1998/Robo-App-React-Api/blob/main/Thumbnail.png)
